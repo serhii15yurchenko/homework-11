@@ -104,22 +104,22 @@ main .section:not(:last-child) {
   color: #E0E0E0;
 }
 .architectural .grid-photo .section1_1 {
-  background-image: url(../../../img/section1/photo-1.jpg);
+  background-image: url(../img/section1/photo-1.jpg);
 }
 .architectural .grid-photo .section1_2 {
-  background-image: url(../../../img/section1/photo-2.jpg);
+  background-image: url(../img/section1/photo-2.jpg);
 }
 .architectural .grid-photo .section1_3 {
-  background-image: url(../../../img/section1/photo-3.jpg);
+  background-image: url(../img/section1/photo-3.jpg);
 }
 .architectural .grid-photo .section1_4 {
-  background-image: url(../../../img/section1/photo-4.jpg);
+  background-image: url(../img/section1/photo-4.jpg);
 }
 .architectural .grid-photo .section1_5 {
-  background-image: url(../../../img/section1/photo-5.jpg);
+  background-image: url(../img/section1/photo-5.jpg);
 }
 .architectural .grid-photo .section1_6 {
-  background-image: url(../../../img/section1/photo-6.jpg);
+  background-image: url(../img/section1/photo-6.jpg);
 }
 
 .still-life h2 {
@@ -210,22 +210,22 @@ main .section:not(:last-child) {
   color: #E0E0E0;
 }
 .still-life .grid-photo .section2_1 {
-  background-image: url(../../../img/section2/photo-1.jpg);
+  background-image: url(../img/section2/photo-1.jpg);
 }
 .still-life .grid-photo .section2_2 {
-  background-image: url(../../../img/section2/photo-2.jpg);
+  background-image: url(../img/section2/photo-2.jpg);
 }
 .still-life .grid-photo .section2_3 {
-  background-image: url(../../../img/section2/photo-3.jpg);
+  background-image: url(../img/section2/photo-3.jpg);
 }
 .still-life .grid-photo .section2_4 {
-  background-image: url(../../../img/section2/photo-4.jpg);
+  background-image: url(../img/section2/photo-4.jpg);
 }
 .still-life .grid-photo .section2_5 {
-  background-image: url(../../../img/section2/photo-5.jpg);
+  background-image: url(../img/section2/photo-5.jpg);
 }
 .still-life .grid-photo .section2_6 {
-  background-image: url(../../../img/section2/photo-6.jpg);
+  background-image: url(../img/section2/photo-6.jpg);
 }
 
 .portrait h2 {
@@ -316,34 +316,34 @@ main .section:not(:last-child) {
   color: #E0E0E0;
 }
 .portrait .grid-photo .section3_1 {
-  background-image: url(../../../img/section3/photo-1.jpg);
+  background-image: url(../img/section3/photo-1.jpg);
 }
 .portrait .grid-photo .section3_2 {
-  background-image: url(../../../img/section3/photo-2.jpg);
+  background-image: url(../img/section3/photo-2.jpg);
 }
 .portrait .grid-photo .section3_3 {
-  background-image: url(../../../img/section3/photo-3.jpg);
+  background-image: url(../img/section3/photo-3.jpg);
 }
 .portrait .grid-photo .section3_4 {
-  background-image: url(../../../img/section3/photo-4.jpg);
+  background-image: url(../img/section3/photo-4.jpg);
 }
 .portrait .grid-photo .section3_5 {
-  background-image: url(../../../img/section3/photo-5.jpg);
+  background-image: url(../img/section3/photo-5.jpg);
 }
 .portrait .grid-photo .section3_6 {
-  background-image: url(../../../img/section3/photo-6.jpg);
+  background-image: url(../img/section3/photo-6.jpg);
 }
 .portrait .grid-photo .section3_7 {
-  background-image: url(../../../img/section3/photo-7.jpg);
+  background-image: url(../img/section3/photo-7.jpg);
 }
 .portrait .grid-photo .section3_8 {
-  background-image: url(../../../img/section3/photo-8.jpg);
+  background-image: url(../img/section3/photo-8.jpg);
 }
 .portrait .grid-photo .section3_9 {
-  background-image: url(../../../img/section3/photo-9.jpg);
+  background-image: url(../img/section3/photo-9.jpg);
 }
 .portrait .grid-photo .section3_10 {
-  background-image: url(../../../img/section3/photo-10.jpg);
+  background-image: url(../img/section3/photo-10.jpg);
 }
 
 @media only screen and (min-width: 576px) {
@@ -363,11 +363,11 @@ main .section:not(:last-child) {
     grid-template-rows: repeat(8, 370px);
   }
   .still-life .grid-photo .section2_3 {
-    background-image: url(../../../img/section2/photo-3.jpg);
+    background-image: url(../img/section2/photo-3.jpg);
     grid-row: span 2;
   }
   .still-life .grid-photo .section2_4 {
-    background-image: url(../../../img/section2/photo-4.jpg);
+    background-image: url(../img/section2/photo-4.jpg);
     grid-row: span 2;
   }
   .portrait h2 {
@@ -377,15 +377,15 @@ main .section:not(:last-child) {
     grid-template-rows: repeat(13, 370px);
   }
   .portrait .grid-photo .section3_2 {
-    background-image: url(../../../img/section3/photo-2.jpg);
+    background-image: url(../img/section3/photo-2.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_5 {
-    background-image: url(../../../img/section3/photo-5.jpg);
+    background-image: url(../img/section3/photo-5.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_6 {
-    background-image: url(../../../img/section3/photo-6.jpg);
+    background-image: url(../img/section3/photo-6.jpg);
     grid-row: span 2;
   }
 }
@@ -484,24 +484,24 @@ main .section:not(:last-child) {
     color: #E0E0E0;
   }
   .architectural .grid-photo .section1_1 {
-    background-image: url(../../../img/section1/photo-1.jpg);
+    background-image: url(../img/section1/photo-1.jpg);
   }
   .architectural .grid-photo .section1_2 {
-    background-image: url(../../../img/section1/photo-2.jpg);
+    background-image: url(../img/section1/photo-2.jpg);
     grid-column: span 2;
   }
   .architectural .grid-photo .section1_3 {
-    background-image: url(../../../img/section1/photo-3.jpg);
+    background-image: url(../img/section1/photo-3.jpg);
     grid-column: span 2;
   }
   .architectural .grid-photo .section1_4 {
-    background-image: url(../../../img/section1/photo-4.jpg);
+    background-image: url(../img/section1/photo-4.jpg);
   }
   .architectural .grid-photo .section1_5 {
-    background-image: url(../../../img/section1/photo-5.jpg);
+    background-image: url(../img/section1/photo-5.jpg);
   }
   .architectural .grid-photo .section1_6 {
-    background-image: url(../../../img/section1/photo-6.jpg);
+    background-image: url(../img/section1/photo-6.jpg);
     grid-column: span 2;
   }
   .still-life h2 {
@@ -519,20 +519,20 @@ main .section:not(:last-child) {
     font-size: 12px;
   }
   .still-life .grid-photo .section2_2 {
-    background-image: url(../../../img/section2/photo-2.jpg);
+    background-image: url(../img/section2/photo-2.jpg);
     grid-column: span 2;
   }
   .still-life .grid-photo .section2_3 {
-    background-image: url(../../../img/section2/photo-3.jpg);
+    background-image: url(../img/section2/photo-3.jpg);
     grid-row: span 2;
     grid-column: span 2;
   }
   .still-life .grid-photo .section2_4 {
-    background-image: url(../../../img/section2/photo-4.jpg);
+    background-image: url(../img/section2/photo-4.jpg);
     grid-row: span 2;
   }
   .still-life .grid-photo .section2_5 {
-    background-image: url(../../../img/section2/photo-5.jpg);
+    background-image: url(../img/section2/photo-5.jpg);
     grid-column: span 2;
   }
   .portrait h2 {
@@ -563,23 +563,23 @@ main .section:not(:last-child) {
     color: #E0E0E0;
   }
   .portrait .grid-photo .section3_2 {
-    background-image: url(../../../img/section3/photo-2.jpg);
+    background-image: url(../img/section3/photo-2.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_5 {
-    background-image: url(../../../img/section3/photo-5.jpg);
+    background-image: url(../img/section3/photo-5.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_6 {
-    background-image: url(../../../img/section3/photo-6.jpg);
+    background-image: url(../img/section3/photo-6.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_8 {
-    background-image: url(../../../img/section3/photo-8.jpg);
+    background-image: url(../img/section3/photo-8.jpg);
     grid-column: span 2;
   }
   .portrait .grid-photo .section3_9 {
-    background-image: url(../../../img/section3/photo-9.jpg);
+    background-image: url(../img/section3/photo-9.jpg);
     grid-column: span 2;
   }
 }
@@ -678,24 +678,24 @@ main .section:not(:last-child) {
     color: #E0E0E0;
   }
   .architectural .grid-photo .section1_1 {
-    background-image: url(../../../img/section1/photo-1.jpg);
+    background-image: url(../img/section1/photo-1.jpg);
   }
   .architectural .grid-photo .section1_2 {
-    background-image: url(../../../img/section1/photo-2.jpg);
+    background-image: url(../img/section1/photo-2.jpg);
     grid-column: span 2;
   }
   .architectural .grid-photo .section1_3 {
-    background-image: url(../../../img/section1/photo-3.jpg);
+    background-image: url(../img/section1/photo-3.jpg);
     grid-column: span 2;
   }
   .architectural .grid-photo .section1_4 {
-    background-image: url(../../../img/section1/photo-4.jpg);
+    background-image: url(../img/section1/photo-4.jpg);
   }
   .architectural .grid-photo .section1_5 {
-    background-image: url(../../../img/section1/photo-5.jpg);
+    background-image: url(../img/section1/photo-5.jpg);
   }
   .architectural .grid-photo .section1_6 {
-    background-image: url(../../../img/section1/photo-6.jpg);
+    background-image: url(../img/section1/photo-6.jpg);
     grid-column: span 2;
   }
   .still-life h2 {
@@ -713,20 +713,20 @@ main .section:not(:last-child) {
     font-size: 15px;
   }
   .still-life .grid-photo .section2_2 {
-    background-image: url(../../../img/section2/photo-2.jpg);
+    background-image: url(../img/section2/photo-2.jpg);
     grid-column: span 2;
   }
   .still-life .grid-photo .section2_3 {
-    background-image: url(../../../img/section2/photo-3.jpg);
+    background-image: url(../img/section2/photo-3.jpg);
     grid-row: span 2;
     grid-column: span 2;
   }
   .still-life .grid-photo .section2_4 {
-    background-image: url(../../../img/section2/photo-4.jpg);
+    background-image: url(../img/section2/photo-4.jpg);
     grid-row: span 2;
   }
   .still-life .grid-photo .section2_5 {
-    background-image: url(../../../img/section2/photo-5.jpg);
+    background-image: url(../img/section2/photo-5.jpg);
     grid-column: span 2;
   }
   .portrait h2 {
@@ -757,23 +757,23 @@ main .section:not(:last-child) {
     color: #E0E0E0;
   }
   .portrait .grid-photo .section3_2 {
-    background-image: url(../../../img/section3/photo-2.jpg);
+    background-image: url(../img/section3/photo-2.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_5 {
-    background-image: url(../../../img/section3/photo-5.jpg);
+    background-image: url(../img/section3/photo-5.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_6 {
-    background-image: url(../../../img/section3/photo-6.jpg);
+    background-image: url(../img/section3/photo-6.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_8 {
-    background-image: url(../../../img/section3/photo-8.jpg);
+    background-image: url(../img/section3/photo-8.jpg);
     grid-column: span 2;
   }
   .portrait .grid-photo .section3_9 {
-    background-image: url(../../../img/section3/photo-9.jpg);
+    background-image: url(../img/section3/photo-9.jpg);
     grid-column: span 2;
   }
 }
@@ -872,24 +872,24 @@ main .section:not(:last-child) {
     color: #E0E0E0;
   }
   .architectural .grid-photo .section1_1 {
-    background-image: url(../../../img/section1/photo-1.jpg);
+    background-image: url(../img/section1/photo-1.jpg);
   }
   .architectural .grid-photo .section1_2 {
-    background-image: url(../../../img/section1/photo-2.jpg);
+    background-image: url(../img/section1/photo-2.jpg);
     grid-column: span 2;
   }
   .architectural .grid-photo .section1_3 {
-    background-image: url(../../../img/section1/photo-3.jpg);
+    background-image: url(../img/section1/photo-3.jpg);
     grid-column: span 2;
   }
   .architectural .grid-photo .section1_4 {
-    background-image: url(../../../img/section1/photo-4.jpg);
+    background-image: url(../img/section1/photo-4.jpg);
   }
   .architectural .grid-photo .section1_5 {
-    background-image: url(../../../img/section1/photo-5.jpg);
+    background-image: url(../img/section1/photo-5.jpg);
   }
   .architectural .grid-photo .section1_6 {
-    background-image: url(../../../img/section1/photo-6.jpg);
+    background-image: url(../img/section1/photo-6.jpg);
     grid-column: span 2;
   }
   .still-life h2 {
@@ -907,20 +907,20 @@ main .section:not(:last-child) {
     font-size: 20px;
   }
   .still-life .grid-photo .section2_2 {
-    background-image: url(../../../img/section2/photo-2.jpg);
+    background-image: url(../img/section2/photo-2.jpg);
     grid-column: span 2;
   }
   .still-life .grid-photo .section2_3 {
-    background-image: url(../../../img/section2/photo-3.jpg);
+    background-image: url(../img/section2/photo-3.jpg);
     grid-row: span 2;
     grid-column: span 2;
   }
   .still-life .grid-photo .section2_4 {
-    background-image: url(../../../img/section2/photo-4.jpg);
+    background-image: url(../img/section2/photo-4.jpg);
     grid-row: span 2;
   }
   .still-life .grid-photo .section2_5 {
-    background-image: url(../../../img/section2/photo-5.jpg);
+    background-image: url(../img/section2/photo-5.jpg);
     grid-column: span 2;
   }
   .portrait h2 {
@@ -951,23 +951,23 @@ main .section:not(:last-child) {
     color: #E0E0E0;
   }
   .portrait .grid-photo .section3_2 {
-    background-image: url(../../../img/section3/photo-2.jpg);
+    background-image: url(../img/section3/photo-2.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_5 {
-    background-image: url(../../../img/section3/photo-5.jpg);
+    background-image: url(../img/section3/photo-5.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_6 {
-    background-image: url(../../../img/section3/photo-6.jpg);
+    background-image: url(../img/section3/photo-6.jpg);
     grid-row: span 2;
   }
   .portrait .grid-photo .section3_8 {
-    background-image: url(../../../img/section3/photo-8.jpg);
+    background-image: url(../img/section3/photo-8.jpg);
     grid-column: span 2;
   }
   .portrait .grid-photo .section3_9 {
-    background-image: url(../../../img/section3/photo-9.jpg);
+    background-image: url(../img/section3/photo-9.jpg);
     grid-column: span 2;
   }
 }
