@@ -1,0 +1,131 @@
+.architectural {
+    h2 {
+        font-family: $delius;
+        font-weight: 400;
+        font-size: 36px;
+        // 36px
+        color: $black;
+        letter-spacing: 0.05em;
+        text-align: center;
+        margin-bottom: 80px; 
+        // 80px
+    }
+
+    .grid-photo {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: repeat(3, 370px);
+        // также можно grid-auto-rows: 370px;
+        gap: 30px;
+    
+        .grid-photo__item {
+            position: relative;
+            grid-column: span 1;
+            grid-row: span 1;
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+            background-repeat: no-repeat;
+            background-position: 50% 50%;
+            border-radius: 20px; 
+            background-size: cover;
+            overflow: hidden;
+            padding: 20px;
+            transition: all .4s ease;
+            cursor: pointer;
+    
+            &:hover::after {
+                opacity: 0;
+            }
+    
+            &::after {
+                content: '';
+                position: absolute;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background-image: linear-gradient(360deg, #241F24 0%, rgba(91, 91, 91, 0.447552) 34.11%, rgba(187, 186, 192, 0.26) 62.5%);
+                opacity: 1;
+                transition: all .4s ease;
+            }
+            .grid-photo__item-top {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                position: relative;
+                z-index: 2;
+                button {
+                    background-color: rgba(224, 224, 224, 0.5);
+                    border-radius: 8px;
+                    transition: background-color .3s ease;
+                    cursor: pointer;
+                    width: 40px;
+                    height: 40px;
+                    border: none;
+                    &:hover {
+                        background-color: #E0E0E0;
+                    }
+                    .icon {
+                        width: 20px;
+                        height: 20px;
+                    }
+                }
+            }
+    
+            .grid-photo__item-bottom {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                position: relative;
+                z-index: 2;
+                h3 {
+                    font-family: $roboto;
+                    font-size: 20px;
+                    // 20px
+                    font-weight: 500;
+                    color: $white;
+                }
+    
+                span {
+                    font-family: $roboto;
+                    font-size: 20px;
+                    // 20px
+                    font-weight: 400;
+                    color: $greyData;
+                }
+            }
+        }
+    
+        .section1_1 {
+            background-image: url(../../../img/section1/photo-1.jpg);
+        }
+        
+        .section1_2 {
+            background-image: url(../../../img/section1/photo-2.jpg);
+            grid-column: span 2;
+        }
+        
+        .section1_3 {
+            background-image: url(../../../img/section1/photo-3.jpg);
+            grid-column: span 2;
+        }
+        
+        .section1_4 {
+            background-image: url(../../../img/section1/photo-4.jpg);
+        }
+        
+        .section1_5 {
+            background-image: url(../../../img/section1/photo-5.jpg);
+        }
+    
+        .section1_6 {
+            background-image: url(../../../img/section1/photo-6.jpg);
+            grid-column: span 2;
+        }
+    
+    }
+}
+
+
+

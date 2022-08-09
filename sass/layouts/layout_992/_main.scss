@@ -1,0 +1,8 @@
+main {
+    padding: 120px 0; 
+    // 120px
+    .section:not(:last-child) {
+        margin-bottom: 120px;
+        // 120px
+    }
+}
