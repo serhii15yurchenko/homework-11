@@ -93,13 +93,13 @@ main .section:not(:last-child) {
 }
 .architectural .grid-photo .grid-photo__item .grid-photo__item-bottom h3 {
   font-family: "Roboto", sans-serif;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 500;
   color: #fff;
 }
 .architectural .grid-photo .grid-photo__item .grid-photo__item-bottom span {
   font-family: "Roboto", sans-serif;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 400;
   color: #E0E0E0;
 }
@@ -199,13 +199,13 @@ main .section:not(:last-child) {
 }
 .still-life .grid-photo .grid-photo__item .grid-photo__item-bottom h3 {
   font-family: "Roboto", sans-serif;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 500;
   color: #fff;
 }
 .still-life .grid-photo .grid-photo__item .grid-photo__item-bottom span {
   font-family: "Roboto", sans-serif;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 400;
   color: #E0E0E0;
 }
@@ -305,13 +305,13 @@ main .section:not(:last-child) {
 }
 .portrait .grid-photo .grid-photo__item .grid-photo__item-bottom h3 {
   font-family: "Roboto", sans-serif;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 500;
   color: #fff;
 }
 .portrait .grid-photo .grid-photo__item .grid-photo__item-bottom span {
   font-family: "Roboto", sans-serif;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 400;
   color: #E0E0E0;
 }
