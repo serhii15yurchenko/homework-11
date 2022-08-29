@@ -8,24 +8,21 @@
     .grid-photo {
         grid-template-rows: repeat(13, 370px);
         // также можно grid-auto-rows: 370px;
-    
-        
-        .section3_2 {
+
+        .grid-photo__item:nth-of-type(2){
             background-image: url(../img/section3/photo-2.jpg);
             grid-row: span 2;
         }
-        
-        
-        .section3_5 {
+
+        .grid-photo__item:nth-of-type(5){
             background-image: url(../img/section3/photo-5.jpg);
             grid-row: span 2;
         }
-        
-        .section3_6 {
+
+        .grid-photo__item:nth-of-type(6){
             background-image: url(../img/section3/photo-6.jpg);
             grid-row: span 2;
         }
-    
     }
 }
 

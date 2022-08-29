@@ -95,32 +95,31 @@
                     color: $greyData;
                 }
             }
+
+            &:nth-of-type(1) {
+                background-image: url(../img/section2/photo-1.jpg);
+            }
+
+            &:nth-of-type(2) {
+                background-image: url(../img/section2/photo-2.jpg);
+            }
+
+            &:nth-of-type(3) {
+                background-image: url(../img/section2/photo-3.jpg);
+            }
+
+            &:nth-of-type(4) {
+                background-image: url(../img/section2/photo-4.jpg);
+            }
+
+            &:nth-of-type(5) {
+                background-image: url(../img/section2/photo-5.jpg);
+            }
+
+            &:nth-of-type(6) {
+                background-image: url(../img/section2/photo-6.jpg);
+            }
         }
-    
-        .section2_1 {
-            background-image: url(../img/section2/photo-1.jpg);
-        }
-        
-        .section2_2 {
-            background-image: url(../img/section2/photo-2.jpg);
-        }
-        
-        .section2_3 {
-            background-image: url(../img/section2/photo-3.jpg);
-        }
-        
-        .section2_4 {
-            background-image: url(../img/section2/photo-4.jpg);
-        }
-        
-        .section2_5 {
-            background-image: url(../img/section2/photo-5.jpg);
-        }
-        
-        .section2_6 {
-            background-image: url(../img/section2/photo-6.jpg);
-        }
-    
     }
 }
 
